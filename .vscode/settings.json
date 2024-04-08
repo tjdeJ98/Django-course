@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "C://Users//Timo//.virtualenvs//DjangoFundamentals-El8bhdHT//Scripts//python.exe",
+  "pylint.args": ["load-plugins=pylint_django"]
+}
